@@ -1,9 +1,9 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-class student{
-    public:
-
+class student
+{
+public:
     int roll;
     float marks;
 
@@ -15,21 +15,20 @@ class student{
 
     void show()
     {
-        cout << "Student's roll and marks are:" <<endl;
+        cout << "Student's roll and marks are:" << endl;
         cout << roll << " and " << marks;
     }
-
 };
 
 int main()
 {
     student s;
-    
-    s .input();
-    s .show();
+
+    s.input();
+    s.show();
 
     student std2;
 
-    std2 .input();
-    std2 .show();
+    std2.input();
+    std2.show();
 }
