@@ -15,5 +15,3 @@ Welcome to my C++ repository! This collection includes **lab projects** and **le
   Follow-along code based on the BroCode C++ tutorials — great for beginners.
 
 ---
-
-## 📌 Folder Structure (Example)
